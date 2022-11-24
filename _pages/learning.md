@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /learning/
-title: Digital skills
+permalink: /digital_skills/
+title: learning
 description: Digital skills and online courses to learn
 nav: true
 nav_order: 5
