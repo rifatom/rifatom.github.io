@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /digital_skills/
-title: learning
-description: Digital skills and online courses to learn
+permalink: /data_storytelling/
+title: Data Storytelling
+description: Telling stories from data
 nav: true
 nav_order: 5
 ---
