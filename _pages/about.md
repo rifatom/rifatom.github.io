@@ -9,18 +9,16 @@ profile:
   image: profil_pic.png
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Prirodno-matematički f.</p>
+    <p>Urfeta Vejzagića 4</p>
+    <p>75000 Tuzla, BiH</p>
 
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Teaching assistant at the Faculty of Natural Sciences and Mathematics at the University of Tuzla. Finishing PhD in theoretical physics at the University of Sarajevo. Particle physics, reactions at low energies is the filed of interest.
+Teaching assistant at the Faculty of Natural Sciences and Mathematics at the University of Tuzla. PhD in theoretical physics at the University of Sarajevo. Research field: Particle physics, reactions at low energies, partial wave analysis of pion photo and electroproduction. Member of [PWA Tuzla Group](http://www.pwatuzla.com).
 
-Data Analytics and Data Visualization passionate. Phyton, R, SQL are tools I love to use.
+Data Analytics and Data Visualization passionate. Analytic tools: SQL, Python, R, Power BI. Data Analytics Associate [Certificated](https://www.datacamp.com/certificate/DAA0013936753761) at DataCamp. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Love running, hiking, biking - [https://www.strava.com/athletes/30933186](Strava) profile.
