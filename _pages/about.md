@@ -21,4 +21,4 @@ Teaching assistant at the Faculty of Natural Sciences and Mathematics at the Uni
 
 Data Analytics and Data Visualization passionate. Analytic tools: SQL, Python, R, Power BI. Data Analytics Associate [Certificated](https://www.datacamp.com/certificate/DAA0013936753761) at DataCamp. 
 
-Love running, hiking, biking - [https://www.strava.com/athletes/30933186](Strava) profile.
+Love running, hiking, biking -  [Strava](https://www.strava.com/athletes/30933186) profile.
