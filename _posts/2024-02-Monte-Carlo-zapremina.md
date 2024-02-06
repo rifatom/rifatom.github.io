@@ -10,10 +10,12 @@ description: Primjer Monte Carlo simulacije za procjenu zapremine sfere (Python)
 U ovom zadatku je potrebno izvršiti procjenu zapremine jedinične sfere u 10 dimenzionom prostoru koristeći Monte Carlo metod. Razmotrimo ekvivalentni problem u 2 dimenzije. Površina jediničnog kruga je data integralom:
 
 $$I = \int \int_{+1}^{-1} f(x,y)dxdy,$$
-gdje je $ f(x,y)=1 $  unutar kruga, a nula izvan:
-$ f(x,y)= 1 $ ako je $x^2 + y^2 ≤ 1$, i $0$ za ostalo.
 
-Površina kruga se može naći Monte Carlo integracijom: Generiramo skup N slučajnih tačaka (x,y), gdje su x i y u intervalu $[0,1]$; Izračunamo prethodni integtral koristeći odgovarajuću sumu:
+gdje je $$ f(x,y)=1 $$  unutar kruga, a nula izvan:
+
+$$ f(x,y)= 1 $$ ako je $$x^2 + y^2 ≤ 1$$, i $$0$$ za ostalo.
+
+Površina kruga se može naći Monte Carlo integracijom: Generiramo skup N slučajnih tačaka (x,y), gdje su x i y u intervalu [0,1]; Izračunamo prethodni integtral koristeći odgovarajuću sumu:
 
 $$ I \approx \frac{4}{N} \sum_{i=1}^N f(x_i,y_i).$$
 
