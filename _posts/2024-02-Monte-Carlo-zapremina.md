@@ -3,6 +3,7 @@ layout: post
 title: Zapremina 10-D sfere - Monte Carlo simulacija
 date: 2024-02-06 17:39:00
 description: Primjer Monte Carlo simulacije za procjenu zapremine sfere (Python)
+permalink: /monte-carlo-zapremina
 
 ---
 
