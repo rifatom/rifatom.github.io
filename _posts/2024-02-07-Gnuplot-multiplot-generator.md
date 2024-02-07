@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Gnuplot Multiplot Generator
-date: 2024-02-07 07:00:00
+date: 2024-02-06 07:00:00
 description: Python script to generate gnuplot multiplot settings
 tags: python gnuplot
 categories: plots
 ---
-A Gnuplot template-script generator for easy multiplot setup written in Python.
+A pracical Gnuplot template-script generator for easy multiplot setup written in Python.
 
 This template generator was written to easily setup Gnuplot multiplots with non-standard paddings and margins between the plots, e.g. for **placing graphs right next to each other** when they share their X- and Y-axes.
 
