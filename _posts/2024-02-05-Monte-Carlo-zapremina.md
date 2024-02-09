@@ -24,7 +24,7 @@ Površina kruga se može naći Monte Carlo integracijom: Generiramo skup N sluč
 $$ I \approx \frac{4}{N} \sum_{i=1}^N f(x_i,y_i).$$
 
 Ovaj metod se može generalizirati na problem u 10-D prostoru.
-Ako bismo problem riješavali na tradicionalni način (računanjem 10-D integrala), bilo bi potrebno mnogo više vremena: za npr. 100 tačaka (što ne bi dalo posebno dobar rezultat) duž svake ose, imali bismo $100^{10} = 10^{20}$ uzorkovanih tačaka, što je praktično "nemoguća misija" za bilo koji računar. Ali, korištenjem Monte Carlo metoda, moguće je dobiti zadovoljavajući rezultat i sa otprilike milion tačaka.
+Ako bismo problem riješavali na tradicionalni način (računanjem 10-D integrala), bilo bi potrebno mnogo više vremena: za npr. 100 tačaka (što ne bi dalo posebno dobar rezultat) duž svake ose, imali bismo $$100^{10} = 10^{20}$$ uzorkovanih tačaka, što je praktično "nemoguća misija" za bilo koji računar. Ali, korištenjem Monte Carlo metoda, moguće je dobiti zadovoljavajući rezultat i sa otprilike milion tačaka.
 
 hint: <a href="https://en.wikipedia.org/wiki/Volume_of_an_n-ball"> Volume of a n-ball </a>
 
