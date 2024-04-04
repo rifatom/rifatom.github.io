@@ -37,7 +37,7 @@ ukupne energije koja se sastoji od energije mirovanja i kinetičke energije (u o
 </div>
 <div class="caption">
     Rezonantna stanja u reakciji $$\pi^+ + p \rightarrow \pi^+ + p + \pi^- + \pi^0$$ se javljaju na efektivnim vrijednostima
-    masa od 549 i 783 $$MeV/c^2$$ respektivno. Efektivna masa odgovara ukupnoj energiji. 
+    masa od 549 i 783 MeV/c^2 respektivno. Efektivna masa odgovara ukupnoj energiji. 
 </div>
 
 Očigledno je da postoji jaka tendencija da ukupna energija mezona bude 783 MeV-a i nešto slabija tendencija za 549 MeV. Može se reći da reakcija daje rezonance na 549 i 783 MeV-a. Drugim riječima reakcija se dešava uz produkciju prelaznih stanja/čestica čije su mase ili 549 $$MeV/c^2$$ ili 783 $$MeV/c^2$$. 
