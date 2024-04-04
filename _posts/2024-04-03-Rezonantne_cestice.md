@@ -23,7 +23,7 @@ Ako uzmemo primjer atoma, rezonantna stanja se u atomima pojavljuju kao energijs
 Kod elementarnih čestica je situacija drugačija. Zbog djelovanja slabih i jakih interakcija koje su mnogo složenije od elektromagnetnih, a koje dugo nismo razumjeli, mi govorimo o različitim česticama. 
 
 Pogledajmo sada jedan primjer rezonanci u fizici elementarnih čestica. Neka imamo eksperiment kod kojeg su npr. protoni
-bombardovani $\pi^+$ mezonima i neka je dobijena rekacija:
+bombardovani $$\pi^+$$ mezonima i neka je dobijena rekacija:
 
 $$ p + \pi^+ \rightarrow \pi^+ + p + \pi^- + \pi^0. $$
 
