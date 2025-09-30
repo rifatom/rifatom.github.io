@@ -7,6 +7,8 @@ nav: true
 nav_order: 5
 ---
 
-I am/were teaching assistant on several courses in theoretical and general physics: Quantum Mechanics, Biophysics, Mathematical Methods in Physics, Particle Physics, Data Vizualization in Physics, Astrophysics, Classical Mechanics. 
+Teaching Assistant / Assistant Professor on several courses in theoretical and general physics: Quantum Mechanics, Biophysics, Mathematical Methods in Physics, Particle Physics, Data Visualization in Physics, Astrophysics, and Classical Mechanics. 
 Teaching materials/links:
-- [CalcChat](https://www.calcchat.com/book/Calculus-10e/) 
+1. Mathematical Methods in Physics:
+  - [CalcChat](https://www.calcchat.com/book/Calculus-10e/)
+  - [WolframAlpha Oline](https://www.wolframalpha.com/input?i=plot+sqrt%281-x%5E2%2By%5E2%29)
