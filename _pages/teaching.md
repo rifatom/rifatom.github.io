@@ -11,4 +11,4 @@ Teaching Assistant / Assistant Professor on several courses in theoretical and g
 Teaching materials/links:
 1. Mathematical Methods in Physics:
   - [CalcChat](https://www.calcchat.com/book/Calculus-10e/)
-  - [WolframAlpha Oline](https://www.wolframalpha.com/input?i=plot+sqrt%281-x%5E2%2By%5E2%29)
+  - [WolframAlpha Online](https://www.wolframalpha.com/input?i=plot+sqrt%281-x%5E2%2By%5E2%29)
