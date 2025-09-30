@@ -12,3 +12,6 @@ Teaching materials/links:
 1. Mathematical Methods in Physics:
   - [CalcChat](https://www.calcchat.com/book/Calculus-10e/)
   - [WolframAlpha Online](https://www.wolframalpha.com/input?i=plot+sqrt%281-x%5E2%2By%5E2%29)
+
+2. Electrodynamics 1 and 2:
+   - Book: [Introduction to Electrodynamics by D. J. Griffiths](https://nucleares.unam.mx/~martinel/griffiths_4ed.pdf)
